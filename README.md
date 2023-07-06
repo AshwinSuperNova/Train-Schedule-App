@@ -29,7 +29,7 @@ Displays the access token received from the API upon successful authorization.
 NavBar.js:
 
 Displays a navigation bar with links to different pages/routes.
-![Screenshot (167)](https://github.com/AshwinSuperNova/Train-Schedule-App/assets/126334039/42d8eb25-34f0-41ac-a7be-0d50498109a2)
+
 
 ![Screenshot (166)](https://github.com/AshwinSuperNova/Train-Schedule-App/assets/126334039/9629cdd7-7819-433b-9cc4-4b5882f7bdbf)
 
